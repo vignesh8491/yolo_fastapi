@@ -1,1 +1,0 @@
-### YOLOv4 Inference on FASTAPI
