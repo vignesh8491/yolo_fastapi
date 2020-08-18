@@ -10,6 +10,9 @@
     ├── weight                 # yolo weight files
     └── README.md
 
+## Model files
+- download the model files from Drive(https://drive.google.com/drive/folders/1s7VX00MTe2fN7x8cNJpLa640ZlEmvg6s?usp=sharing) and copy it to weight directory inside api
+
 
 ## To Run the server:
 
