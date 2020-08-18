@@ -1,0 +1,1 @@
+torch-model-archiver --model-name yolov4b --version 1.0 --serialized-file yolov4.weights --export-path model_store --handler modelhandler.py --extra-files model.py,torch_utils.py,yolo_layer.py,utils.py --runtime python3
