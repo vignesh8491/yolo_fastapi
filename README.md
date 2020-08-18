@@ -1,4 +1,4 @@
-### YOLO v4 on FAST API
+# YOLO v4 on FAST API
 
 ## Folder Structure for web api
 
@@ -10,9 +10,16 @@
     ??? weight                 # yolo weight files
     ??? README.md
 
+    .
+    ├── data                   # label mapping files
+    ├── input                  # request input files(if any)
+    ├── out                    # response image files
+    ├── src                    # source files
+    ├── weight                 # yolo weight files
+    └── README.md
 
 
-# To Run the server:
+## To Run the server:
 
 ```
 cd api
